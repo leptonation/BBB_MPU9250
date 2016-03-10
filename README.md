@@ -1,6 +1,8 @@
 # BBB_MPU9250
 MPU9250 with Beaglebone Black
 
-Contains Self Test, AHRS fusion demostration with embedded Linux development board Beaglebone Black, using SPI 4 wires.
+This project ontains Self Test, AHRS fusion demostration with embedded Linux development board Beaglebone Black, using SPI 4 wires.
 
-Most of the code and concepts are ported from https://github.com/kriswiner/MPU-9250.
+For information and datasheet links, please check wiki page https://github.com/leptonation/BBB_MPU9250/wiki
+
+Most of the code and concepts are ported from https://github.com/kriswiner/MPU-9250, which is for Arduino using I2C and AUX I2C ByPass Mode.
