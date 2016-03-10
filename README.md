@@ -2,4 +2,5 @@
 MPU9250 with Beaglebone Black
 
 Contains Self Test, AHRS fusino demostration with embedded Linux development board Beaglebone Black.
+
 Most of the code and concepts are ported from https://github.com/kriswiner/MPU-9250.
