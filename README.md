@@ -1,6 +1,6 @@
 # MPU9250 with Beaglebone Black - SPI
 
-This project contains Self Test, AHRS fusion demostration with embedded Linux development board Beaglebone Black, using _SPI 4 wires_.
+This project contains Self Test, calibration, AHRS fusion demostration with embedded Linux development board Beaglebone Black, using _SPI 4 wires_.
 
 For information and datasheet links, please check wiki page https://github.com/leptonation/BBB_MPU9250/wiki
 
